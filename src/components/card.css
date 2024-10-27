@@ -1,0 +1,39 @@
+.container
+{
+display: flex;
+justify-content: center;
+flex-direction: column;
+max-width: 250px;
+}
+
+.border{
+    padding: 1rem;
+    border: solid 1px dimgray;;
+    border-radius: 1rem;
+    width: 250px;
+    position: relative;
+}
+
+.image
+{
+    border-radius: 1rem;
+    width: 100%;
+}
+.text
+{
+    color:dimgray;
+
+
+}
+
+.paragraph
+{
+    color:dimgray;
+}
+
+.button
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
